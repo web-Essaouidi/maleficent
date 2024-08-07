@@ -1,4 +1,4 @@
-,
+
 ## Maleficent Bot
 
 <p align="center">
