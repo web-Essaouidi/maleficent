@@ -1,4 +1,4 @@
-
+,
 ## Maleficent Bot
 
 <p align="center">
@@ -100,7 +100,7 @@ just google how to zip and copy file in termux <br>
 
 request fitur, fix, bug atau lain lain <br>
 email ke rulihenderson@gmail.com
-<br>click
+<br> just click or copy
 
 
 # Requirements
