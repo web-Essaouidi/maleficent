@@ -1,8 +1,10 @@
+
 ## Maleficent Bot
 
 <p align="center">
 <img src="https://files.catbox.moe/ku30iz.jpeg" alt="Maleficent Bot-Md" width="500"/><br>
 
+Kalo Banyak Update gotclone ulang ajh bang..syat ✌<br>
    
 if you wanna use input number to get pairing code use npm start<br>
 or node index.js --pairing<br><br>
