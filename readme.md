@@ -98,6 +98,9 @@ just google how to zip and copy file in termux <br>
 <img src="https://small.fileditchstuff.me/s12/PvybFjPSFPHQExNAGAo.jpg" alt="Maleficent Bot-Md" width="500"/>
 <br>
 
+request fitur, fix, bug atau lain lain <br>
+email ke rulihenderson@gmail.com
+
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
