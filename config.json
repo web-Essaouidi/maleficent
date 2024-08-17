@@ -6,7 +6,7 @@
     "63pppp"
   ],
   "readme": "isi nomornya ownerNumber sesuai ada berapa no kalian mau banyak nomor juga bisa, jangan lupa tanda koma nya harus pas biar ga eror , install modul pake npm i atau yarn",
-  "contact": "62895622022075",
+  "contact": "6285702234012",
   "botName": "Maleficent Bot - MD",
   "ownerName": "Ruly Henderson",
   "footer": "© Ruhend",
@@ -20,7 +20,7 @@
   "read": true,
   "self": false,
   "readme2": "botNumber adalah nomor yang mau di jadikan bot",
-  "botNumber": 62895622022075,
+  "botNumber": 6285702234012,
   "group": {
     "only": false,
     "only_message": false,
