@@ -40,17 +40,8 @@ exports.default = {
          showAds: true
       });
       conn.sendFile(m.chat, music, {
-         mimetype: 'audio/mp4',
          ptt: true,
-         quoted: m,
-         contextInfo: {
-            externalAdReply: {
-               mediaType: 1,
-               title: 'Menunya Kak :)',
-               sourceUrl: setting.group.link,
-               thumbnail: await (await fetch(picture)).buffer()
-            }
-         }
+         quoted: m
       })
    }
 }
